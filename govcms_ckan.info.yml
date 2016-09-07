@@ -1,0 +1,8 @@
+name: govCMS CKAN
+description: govCMS CKAN provides integration with CKAN.
+package: govCMS
+
+core: 8.x
+type: module
+
+configure: govcms_ckan.settings

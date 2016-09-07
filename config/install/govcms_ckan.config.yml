@@ -1,0 +1,4 @@
+# Initial settings for connecting to Data.gov.au.
+govcms_ckan.settings:
+  endpoint_url: 'https://data.gov.au'
+  api_key: ''

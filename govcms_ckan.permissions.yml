@@ -1,0 +1,3 @@
+administer govcms ckan:
+  title: 'Administer govCMS CKAN'
+  description: 'Allows the user to acess the govCMS CKAN admin page.'

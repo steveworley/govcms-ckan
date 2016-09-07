@@ -1,0 +1,14 @@
+{
+  "name": "drupal/govcms_ckan",
+  "description": "govCMS CKAN provides integration with CKAN.",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Steve Worley (steveworley)",
+      "homepage": "http://steveworley.github.io",
+      "role": "Maintainer",
+    }
+  ],
+  "license": "",
+  "minimum-stability": "dev",
+}

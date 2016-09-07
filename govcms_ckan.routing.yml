@@ -1,0 +1,7 @@
+govcms_ckan.settings:
+  path: /admin/config/services/govcms-ckan
+  defaults:
+    _title: "govCMS CKAN"
+    _form: "\Drupal\govcms_ckan\Form\SettingsForm"
+  requirements:
+    _permission: 'administer govcms ckan'

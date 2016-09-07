@@ -1,0 +1,4 @@
+services:
+  govcms.ckan:
+    class: Drupal\govcms_ckan\Service\CkanService
+    arguments: [@config.factory, @event_dispatcher]
